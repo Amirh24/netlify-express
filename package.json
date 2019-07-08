@@ -15,13 +15,16 @@
     "netlify",
     "express.js"
   ],
-  "author": "neverendingqs",
+  "author": "AmirHagafny",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/neverendingqs/netlify-express/issues"
   },
-  "homepage": "https://github.com/neverendingqs/netlify-express#readme",
-  "dependencies": {},
+  "homepage": "https://librafaucet.com",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "libra-core": "^1.0.2"
+  },
   "devDependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
